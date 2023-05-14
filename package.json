@@ -1,0 +1,17 @@
+{
+  "name": "b1-pron-pass",
+  "version": "1.0.0",
+  "description": "pronounceable random password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "random",
+    "secure"
+  ],
+  "author": "Ricardo Burone",
+  "license": "MIT"
+}
